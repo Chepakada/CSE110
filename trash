@@ -1,0 +1,3 @@
+# inches= float(input(Enter the value in lbs/ft^2 (don't put the unit)))
+feet_to_inches = inches*(12**2)
+
